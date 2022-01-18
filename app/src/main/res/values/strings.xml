@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Chatting App</string>
+    <string name="user_name">User name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">login</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="send">Send</string>
+    <string name="have_account_register">Have account? <font color='#e7008a'> Login</font></string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign out</string>
+    <string name="update_profile">update profile?</string>
+    <string name="click_to_change_the_image">click to change the image</string>
+    <string name="update">Update</string>
+    <string name="users">Users:</string>
+    <string name="your_message">your message..</string>
+    <string name="sendmessage">sendMessage</string>
+    <string name="the_user_message">the user message</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="new_user_create_account">New user?Create account</string>
+    <string name="choose_user">All Users:</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
